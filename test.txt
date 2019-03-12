@@ -1,0 +1,10 @@
+ Volume in drive E is Chaitanya
+ Volume Serial Number is 9A73-BE19
+
+ Directory of E:\MyProjects
+
+03/12/2019  03:54 PM    <DIR>          .
+03/12/2019  03:54 PM    <DIR>          ..
+03/12/2019  03:54 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  269,911,187,456 bytes free
